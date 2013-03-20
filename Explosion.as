@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;	import flash.events.Event;	import flash.events.MouseEvent;			public class Explosion extends MovieClip {						public function Explosion() {			scaleX = 1.7;			scaleY = 1.7;			this.mouseEnabled = false;			// constructor code		}	}	}
